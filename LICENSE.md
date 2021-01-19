@@ -1,2 +1,3 @@
-© 2019 Metric#0062
+© 2019 BitmapDummy https://github.com/BitmapDummy
+
 All rights reserved.
